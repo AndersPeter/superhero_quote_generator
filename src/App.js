@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./App.scss";
 import COLORS_ARRAY from "../src/colorArray.js";
 import { CgTwitter } from 'react-icons/cg';

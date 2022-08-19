@@ -50,8 +50,8 @@ function App() {
           </button>
             </div>
         </div>
-      </header>
       <p>Copyright 2022. Anders Peter Sørensen</p>
+      </header>
     </div>
   );
 }

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http(s)://AndersPeter.github.io/superhero_quote_generator/static/css/main.811aafff.css",
-    "main.js": "/http(s)://AndersPeter.github.io/superhero_quote_generator/static/js/main.9a96ff92.js",
-    "static/js/787.e4ae0a49.chunk.js": "/http(s)://AndersPeter.github.io/superhero_quote_generator/static/js/787.e4ae0a49.chunk.js",
-    "index.html": "/http(s)://AndersPeter.github.io/superhero_quote_generator/index.html",
-    "main.811aafff.css.map": "/http(s)://AndersPeter.github.io/superhero_quote_generator/static/css/main.811aafff.css.map",
-    "main.9a96ff92.js.map": "/http(s)://AndersPeter.github.io/superhero_quote_generator/static/js/main.9a96ff92.js.map",
-    "787.e4ae0a49.chunk.js.map": "/http(s)://AndersPeter.github.io/superhero_quote_generator/static/js/787.e4ae0a49.chunk.js.map"
+    "main.css": "/superhero_quote_generator/static/css/main.811aafff.css",
+    "main.js": "/superhero_quote_generator/static/js/main.b48abb47.js",
+    "static/js/787.e4ae0a49.chunk.js": "/superhero_quote_generator/static/js/787.e4ae0a49.chunk.js",
+    "index.html": "/superhero_quote_generator/index.html",
+    "main.811aafff.css.map": "/superhero_quote_generator/static/css/main.811aafff.css.map",
+    "main.b48abb47.js.map": "/superhero_quote_generator/static/js/main.b48abb47.js.map",
+    "787.e4ae0a49.chunk.js.map": "/superhero_quote_generator/static/js/787.e4ae0a49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.811aafff.css",
-    "static/js/main.9a96ff92.js"
+    "static/js/main.b48abb47.js"
   ]
 }
